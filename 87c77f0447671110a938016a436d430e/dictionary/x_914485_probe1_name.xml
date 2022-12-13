@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8418734447671110a938016a436d43a4" label="Name" max_length="40" name="x_914485_probe1_name" type="collection">
+        <element label="Leblingsnummer" max_length="255" name="leblingsnummer" type="integer"/>
+        <element label="User" mandatory="true" max_length="40" name="user" type="string"/>
+    </element>
+</database>

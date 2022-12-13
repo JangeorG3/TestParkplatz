@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Test1">ea91009c47671110a938016a436d4333</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-29 10:24:15</sys_created_on>
+        <sys_id>f4b284dc47671110a938016a436d4339</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Test1</sys_name>
+        <sys_package display_value="Probe1" source="x_914485_probe1">87c77f0447671110a938016a436d430e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Probe1">87c77f0447671110a938016a436d430e</sys_scope>
+        <sys_update_name>sc_cat_item_category_f4b284dc47671110a938016a436d4339</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-29 10:24:15</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Probe1">87c77f0447671110a938016a436d430e</application>
+        <file_path/>
+        <instance_id>0735f5c8db6fd3441ddcf22ebf9619ad</instance_id>
+        <instance_name>dev66473</instance_name>
+        <name>sc_cat_item_category_f4b284dc47671110a938016a436d4339</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Test1">ea91009c47671110a938016a436d4333</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-29 10:24:15</sys_created_on><sys_id>f4b284dc47671110a938016a436d4339</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Test1</sys_name><sys_package display_value="Probe1" source="x_914485_probe1">87c77f0447671110a938016a436d430e</sys_package><sys_policy/><sys_scope display_value="Probe1">87c77f0447671110a938016a436d430e</sys_scope><sys_update_name>sc_cat_item_category_f4b284dc47671110a938016a436d4339</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-29 10:24:15</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1101928499</payload_hash>
+        <record_name>Can We Help You?.Test1</record_name>
+        <reverted_from/>
+        <source>4fc77f0447671110a938016a436d430f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-29 10:24:15</sys_created_on>
+        <sys_id>f4b284dc47671110a938016a436d433d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184c2ea744d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-29 10:24:15</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>7cb284dcce671110ab3debbf164ff03c</update_guid>
+        <update_guid_history>7cb284dcce671110ab3debbf164ff03c:-1101928499</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Test1">69444c1047a71110a938016a436d4303</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-29 10:31:08</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>24318b77990144229e4aad2b793b0544</sys_id>
+        <sys_metadata>f4b284dc47671110a938016a436d4339</sys_metadata>
+        <sys_name>Can We Help You?.Test1</sys_name>
+        <sys_package display_value="Probe1" source="x_914485_probe1">87c77f0447671110a938016a436d430e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Probe1">87c77f0447671110a938016a436d430e</sys_scope>
+        <sys_scope_delete display_value="">0935285c44ac47fe805d3287c39c2d41</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_f4b284dc47671110a938016a436d4339</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_f4b284dc47671110a938016a436d4339">f4b284dc47671110a938016a436d433d</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
